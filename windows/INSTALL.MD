@@ -31,5 +31,5 @@ winget install Telegram.TelegramDesktop
 winget install Google.Chrome
 winget install Anthropic.Claude
 winget install Spotify.Spotify
-VideoLAN.VLC
+winget install VideoLAN.VLC
 ```
