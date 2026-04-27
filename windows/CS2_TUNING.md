@@ -68,19 +68,6 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\GameDVR" /v AllowGameDVR /t RE
 
 ---
 
-## Disable fullscreen optimizations on cs2.exe
-
-Path: `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2.exe`
-
-Right-click cs2.exe → Properties → Compatibility:
-
-```
-☑ Disable fullscreen optimizations
-☑ Run as administrator                    (optional, helps process priority)
-Change high DPI settings → Override scaling: Application
-```
-
----
 
 ## Windows Defender exclusion for Steam
 
