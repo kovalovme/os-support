@@ -5,6 +5,7 @@ winget install OpenJS.NodeJS
 winget install GoLang.Go
 winget install Python.Python
 winget install astral-sh.uv
+winget install kubectl
 ```
 
 ---
